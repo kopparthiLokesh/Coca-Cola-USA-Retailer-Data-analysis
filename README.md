@@ -22,7 +22,7 @@ To transform raw Coca-Cola USA of 2022 & 2023 sales data into meaningful insight
 -Designed an interactive dashboard with charts, KPI cards, and slicers to present insights clearly.
 
 ## Dashboard
-![Screen
+Dashboard Image <a href="">View Dashboard</a>
 
 ## Project Insight
 -Total sales and operating profit increased significantly in 2023 compared to 2022.
