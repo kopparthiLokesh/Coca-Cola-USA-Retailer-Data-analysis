@@ -6,9 +6,7 @@ To transform raw Coca-Cola USA of 2022 & 2023 sales data into meaningful insight
 - <a href="https://github.com/kopparthiLokesh/Coca-Cola-USA-Retailer-Data-analysis/blob/main/Retailer%20Dataset.xlsx">Dataset</a>
 
 ## Questions (KPIs)
-• What is the total sales, units sold, average price, and operating profit?
-
-• How do total sales compare between 2022 and 2023?
+• What is the total sales, units sold, average price, and operating profit?• How do total sales compare between 2022 and 2023?
 • Which beverage brand generates the highest sales?
 • Which retailer contributes the most revenue?
 • Which brands show the highest year-over-year growth?
